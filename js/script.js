@@ -20,8 +20,8 @@ $(document).ready(function(){
                 sum += parseInt(Addition[number]);
             }
         console.log(sum);
-    }        
-    add(Addition)
+        }        
+        add(Addition)
     });
 });
 
